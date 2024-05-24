@@ -4,24 +4,24 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "2126xxxxxxxx" // هنا أضف رقمك
+global.botnumber = "249118215303" // هنا أضف رقمك
 
 global.owner = [
-  ['2126xxxxxxxx', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
+  ['249124702614', '☪مطور بـوت تيتو الإسلامي ☪', false]
 ];
 
-global.suittag = ['2126xxxxxxxx'];
-global.prems = ['2126xxxxxxxx'];
+global.suittag = ['249124702614'];
+global.prems = ['249124702614'];
 
 
-global.packname = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚'
-global.author = '𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
-global.wm = 'MidSoune'
-global.igfg = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
-global.wait = '*⠿⠶ إنتظر ⠶⠿*'
+global.packname = '☪ بـوت تيتو الإسلامي ☪'
+global.author = '@awabofficial ♛'
+global.wm = 'awabofficial'
+global.igfg = '☪ بـوت تيتو الإسلامي ☪'
+global.wait = '*⠿⠶ إنتظر شوية ⠶⠿*'
 global.eror = '*خطأ في جلب البيانات*'
-global.sitfe = 'ᴡᴡᴡ.ᴛᴇᴄʜsᴏᴜɴᴇ.ᴄᴏᴍ'
-global.nomorown = '212697118528' // لتجربة البوت
+global.sitfe = '☪ بـوت تيتو الإسلامي ☪'
+global.nomorown = '249118215303' // لتجربة البوت
 
 
 global.mods = [];
@@ -35,9 +35,9 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-MA', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ISLAMIC-WHATSAPP-BOT`;
-global.gt = 'ISLAMIC-WHATSAPP-BOT';
-global.mysticbot = 'ISLAMIC-WHATSAPP-BOT';
+global.wm2 = `☪ بـوت تيتو الإسلامي ☪`;
+global.gt = '☪ بـوت تيتو الإسلامي ☪';
+global.mysticbot = '☪ بـوت تيتو الإسلامي ☪';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
